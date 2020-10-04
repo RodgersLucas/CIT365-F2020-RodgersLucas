@@ -1,0 +1,14 @@
+C:\Users\Lucas\source\repos\MegaDesk-Rodgers\MegaDesk-Rodgers\bin\Debug\wddw.exe.config
+C:\Users\Lucas\source\repos\MegaDesk-Rodgers\MegaDesk-Rodgers\bin\Debug\wddw.exe
+C:\Users\Lucas\source\repos\MegaDesk-Rodgers\MegaDesk-Rodgers\bin\Debug\wddw.pdb
+C:\Users\Lucas\source\repos\MegaDesk-Rodgers\MegaDesk-Rodgers\obj\Debug\MegaDesk-Rodgers.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\MegaDesk-Rodgers\MegaDesk-Rodgers\obj\Debug\MegaDesk_Rodgers.MainMenu.resources
+C:\Users\Lucas\source\repos\MegaDesk-Rodgers\MegaDesk-Rodgers\obj\Debug\MegaDesk_Rodgers.Properties.Resources.resources
+C:\Users\Lucas\source\repos\MegaDesk-Rodgers\MegaDesk-Rodgers\obj\Debug\MegaDesk-Rodgers.csproj.GenerateResource.cache
+C:\Users\Lucas\source\repos\MegaDesk-Rodgers\MegaDesk-Rodgers\obj\Debug\MegaDesk-Rodgers.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\MegaDesk-Rodgers\MegaDesk-Rodgers\obj\Debug\wddw.exe
+C:\Users\Lucas\source\repos\MegaDesk-Rodgers\MegaDesk-Rodgers\obj\Debug\wddw.pdb
+C:\Users\Lucas\source\repos\MegaDesk-Rodgers\MegaDesk-Rodgers\obj\Debug\MegaDesk_Rodgers.AddQuote.resources
+C:\Users\Lucas\source\repos\MegaDesk-Rodgers\MegaDesk-Rodgers\obj\Debug\MegaDesk_Rodgers.DisplayQuote.resources
+C:\Users\Lucas\source\repos\MegaDesk-Rodgers\MegaDesk-Rodgers\obj\Debug\MegaDesk_Rodgers.SearchQuotes.resources
+C:\Users\Lucas\source\repos\MegaDesk-Rodgers\MegaDesk-Rodgers\obj\Debug\MegaDesk_Rodgers.ViewAllQuotes.resources
